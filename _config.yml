@@ -1,0 +1,9 @@
+# Site settings
+title: Our hack day !
+email: mike.ritchie@acm.org
+description: "What you need to know about our hack day is going to run"
+url: "http://ourhackday.github.io"
+paginate: 4
+
+markdown: kramdown
+permalink: pretty
