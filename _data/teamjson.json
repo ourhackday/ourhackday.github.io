@@ -1,0 +1,14 @@
+{"people": [
+  {
+    "name": "mike",
+    "role": "role",
+    "spirit-animal": "mamba",
+    "bio": "dsgsdjhgsdjhg",
+    "expertise": [
+      "foo",
+      "bar",
+      "woo",
+      "cow"
+    ]
+  }
+]}

@@ -1,52 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="favicon.ico">
+    <title>{{ page.title }}</title>
 
-    <title>Our Hack Day</title>
+    {% include head.html %}
 
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="css/jumbotron.css" rel="stylesheet">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
   </head>
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Hackathon</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-        </div><!--/.navbar-collapse -->
-      </div>
-    </nav>
+    {% include navigation.html %}
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Hi!</h1>
-        <p>Some words here about our hack day, overall aims and objectives</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+
+        <div class="row">
+          <div class="col-md-8">
+            <h1>{{ page.title }}</h1>
+            <h2>A sub-heading</h2>
+            <p>Some words here about our hack day, overall aims and objectives</p>
+            <p><a class="btn btn-primary btn-lg" href="/on-the-day/" role="button">What will happen on the day &raquo;</a></p>
+          </div>
+
+          <div class="col-md-4">
+            <p><img src="http://placehold.it/450x300" /></p>
+          </div>
+        </div>
+        
       </div>
     </div>
 
@@ -55,26 +36,28 @@
       <div class="row">
         <div class="col-md-4">
           <h2>Getting Here</h2>
+          <p><img src="http://placehold.it/450x300" /></p>
           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="/getting-here/" role="button">How to get here &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Stuff You'll Need</h2>
+          <h2>Before the day</h2>
+          <p><img src="http://placehold.it/450x300" /></p>
+          <h4>Stuff you need to do &amp; things you need to bring</h4>
           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="/before-the-day/" role="button">What you need to do &raquo;</a></p>
+          
         </div>
         <div class="col-md-4">
           <h2>Resources</h2>
+          <p><img src="http://placehold.it/450x300" /></p>
           <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="/resources/" role="button">Stuff you&apos;ll find useful &raquo;</a></p>
         </div>
       </div>
 
-      <hr>
+      {% include footer.html %}
 
-      <footer>
-        <p>&copy; Company 2014</p>
-      </footer>
     </div> <!-- /container -->
 
 
@@ -82,8 +65,8 @@
          ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
   </body>
 </html>
