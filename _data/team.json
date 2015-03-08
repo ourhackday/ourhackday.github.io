@@ -1,0 +1,198 @@
+{"people": [
+  {
+    "name": "Mike Ritchie",
+    "photo-url": "/img/mike-ritchie.jpg",
+    "job-description": "I manage the Development Team in Digital IT.  I'm all about getting the software development practices right, and building the team's capability.",
+    "bio": "I've been working in software development for close to three decades, in many industry sectors - pharma, small startups, investment banking, medical visualisation software, logistics & transportation. Probably some other stuff. I once wrote an application (really, a proper application - for actual money) that basically counted toilet rolls. This was not a career high point. Not even sure why I mentioned it.",
+    "expertise": [
+      "Patience",
+      "Developer therapy and psychoanalysis",
+      "Magic"
+    ],
+    "spirit-animal": "Platypus, honey badger, or rat.  A 'honey ratypus', if you're ok about accepting imaginary hybrid animals.",
+  },
+  {
+    "name": "David Cole",
+    "photo-url": "/img/david-cole.jpg",
+    "job-description": "I'm a web developer in Digital IT. I help make the website better, but I also get dirty with tooling like functional testing and Grunt plugins.",
+    "bio": "I started out as a Web Designer (Photoshop pixel-pusher), but enjoyed building things much more than the aesthetics, so started getting my hands dirty with HTML, CSS, and Javascript. I've worked in a digital agency, have freelanced and now work in-house for a bank. I also have a  chainsaw license and worked as a massage therapist for a bit, so I'm probably the only person at the hack day professionally qualified to saw your arm off and then rub it better.",
+    "expertise": [
+      "Front end web: HTML, CSS, Javascript",
+      "Making people's chocolate disappear"
+    ],
+    "spirit-animal": "Going by the photo it's a balloon-eared eejitbird (I'm the one on the left).",
+  },
+  {
+    "name": "Alistair Black",
+    "photo-url": "/img/alistair-black.jpg",
+    "job-description": "I work as a Java developer, working with the business to build the features in our products which will make our customers happy!",
+    "bio": "For the last year and a half I have been on the graduate scheme at Tesco Bank, taking the journey from writing amateur code in my bedroom, to writing quality code suitable for deployment to the masses. Before that I was at university studying electronics, and outside of work I’m generally either up a hill or on my bike...not much into sitting around!",
+    "expertise": [
+      "Java",
+      "Android",
+      "Eating cake (I have a certificate)"
+    ],
+    "spirit-animal": "Crow (or so the online quiz I just did told me)",
+  },
+  {
+    "name": "Christopher Brind",
+    "photo-url": "/img/christopher-brind.jpg",
+    "job-description": "Android Community of Practice Lead working on Tesco Bank’s Android app and PayQwiq for Android.",
+    "bio": "Software developer with 15+ years of experience across various verticals including financials, local government and telecoms.  Started by developing GIS apps in C and these days spend my time building mobile apps for Tesco Bank and myself in both Android and iOS.  Interests are coding, running, board games and role playing games.",
+    "expertise": [
+      "Java",
+      "Android and iOS",
+      "Server API design"
+    ],
+    "spirit-animal": "Umber Hulk",
+  },
+  {
+    "name": "Cheryl Baxter",
+    "photo-url": "/img/.jpg",
+    "job-description": "Change Analyst within General Insurance currently working on Small Change.",
+    "bio": "I have worked for Tesco Bank for just over 5 years starting in GI migration as a Team Manager. I live in Glasgow with my partner and guinea pig called Vader. My pet hate is the M8 and fence sitters other than that I would like to think I am fairly easy going!",
+    "expertise": [
+      "Management",
+      "Change",
+      "Operations"
+    ],
+    "spirit-animal": "A Red Panda probably just cause they look like they have fun",
+  },
+  {
+    "name": "Samuel Bedford",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Sarah Farrier",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Rachel Finnie",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Iain Frame",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "James Hare",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Stefan Huth",
+    "photo-url": "/img/.jpg",
+    "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
+    "bio": "Been in the software development business for the passed 6-7 years working on a variety of different projects ranging from Voice Biometric Password Resets, Education Repositories to Android Development for the Bank. In my spare time I’m a Kung Fu practitioner/fanatic. ",
+    "expertise": [
+      "Front end and server side development",
+      "General Software Engineering Practices",
+      "Roundhouse Kicks & Tiger Strikes"
+    ],
+    "spirit-animal": "Flying Squirrel"
+  },
+  {
+    "name": "Louis Jimbert",
+    "photo-url": "/img/louis-jimbert.jpg",
+    "job-description": "I am a developer for tesco bank, I write software that (hopefully) brings value to the bank.",
+    "bio": "I have been working as a developer for almost 5 years, mostly using the Microsoft .NET stack  and now Java at Tesco Bank. I enjoy travelling and loud music.",
+    "expertise": [
+      "Programming",
+      "Food",
+      "Muttering in French at screen"
+    ],
+    "spirit-animal": "Giant Sloth",
+  },
+  {
+    "name": "Niels Kee",
+    "photo-url": "/img/niels-kee.jpg",
+    "job-description": "Scrum Master at Tesco Bank",
+    "bio": "I’ve worked in various companies across Europe and India since graduating from Edinburgh Uni in 2000. An ex developer I’ve shed the headphones and taken on some more responsibility in coaching teams to deliver better solutions. I’ve been at Tesco Bank for 6 months.",
+    "expertise": [
+      "Agile Methologies",
+      "Guiding teams to work collaboratively",
+      "Java Enterprise",
+      "Craft Beers"
+    ],
+    "spirit-animal": "Binturong"
+  },
+  {
+    "name": "Martin Kelly",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Andrew Littlejohns",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Stuart Parr",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Jean Power",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  },
+  {
+    "name": "Victoria Reilly",
+    "photo-url": "/img/.jpg",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      ""
+    ],
+    "spirit-animal": ""
+  }
+]}
