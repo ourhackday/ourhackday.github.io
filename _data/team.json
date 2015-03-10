@@ -112,6 +112,17 @@
     "spirit-animal": "Koala"
   },
   {
+    "name": "Stuart Parr",
+    "photo-url": "/img/stuart-parr.jpg",
+    "job-description": "I am a Web Developer for IT Digital. I’m currently working on the Site improvements project, a refresh of the Tesco bank Brochureware site.",
+    "bio": "I’ve been a Web Developer for five years, starting out working on a ecommerce sites and building HTML emails for a online retailer. Since then I’ve worked for smaller agencies doing Frontend, Design and CMS work.",
+    "expertise": [
+      "HTML/CSS and JavaScript (supposedly)",
+      "I’m a fairly handy bike mechanic as well"
+    ],
+    "spirit-animal": "Seriously! I’ll take a Sloth if I have to."
+  },
+  {
     "name": "Stefan Huth",
     "photo-url": "",
     "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
@@ -134,27 +145,6 @@
       "Operations"
     ],
     "spirit-animal": "A Red Panda probably just cause they look like they have fun",
-  },
-  {
-    "name": "Stuart Parr",
-    "photo-url": "",
-    "job-description": "I am a Web Developer for IT Digital. I’m currently working on the Site improvements project, a refresh of the Tesco bank Brochureware site.",
-    "bio": "I’ve been a Web Developer for five years, starting out working on a ecommerce sites and building HTML emails for a online retailer. Since then I’ve worked for smaller agencies doing Frontend, Design and CMS work.",
-    "expertise": [
-      "HTML/CSS and JavaScript (supposedly)",
-      "I’m a fairly handy bike mechanic as well"
-    ],
-    "spirit-animal": "Seriously! I’ll take a Sloth if I have to."
-  },
-  {
-    "name": "Victoria Reilly",
-    "photo-url": "",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      "Coming soon..."
-    ],
-    "spirit-animal": "Coming soon..."
   },
   {
     "name": "Samuel Bedford",
