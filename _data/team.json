@@ -47,78 +47,31 @@
     "spirit-animal": "Umber Hulk",
   },
   {
-    "name": "Cheryl Baxter",
-    "photo-url": "/img/.jpg",
-    "job-description": "Change Analyst within General Insurance currently working on Small Change.",
-    "bio": "I have worked for Tesco Bank for just over 5 years starting in GI migration as a Team Manager. I live in Glasgow with my partner and guinea pig called Vader. My pet hate is the M8 and fence sitters other than that I would like to think I am fairly easy going!",
-    "expertise": [
-      "Management",
-      "Change",
-      "Operations"
-    ],
-    "spirit-animal": "A Red Panda probably just cause they look like they have fun",
-  },
-  {
-    "name": "Samuel Bedford",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "spirit-animal": ""
-  },
-  {
     "name": "Sarah Farrier",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
+    "photo-url": "/img/sarah-farrier.jpg",
+    "job-description": "Community of Practice Lead in Digital IT, currently working on registration and login optimisation project work for Tesco Bank",
+    "bio": "I joined Tesco Bank in mid-2013, managing the delivery of insurance projects. After a year, I moved to Digital IT to broaden my agile experience. Prior to joining Tesco Bank, I led a team of Business Analysts at a division of MasterCard; previous career experience also includes several years of client-facing technical consultancy and software engineering roles. I currently serve on two ‘Tesco Bank Women in Business Network’ working groups, am an active Member of the British Computer Society and sit as a Board Member at YWCA Scotland.",
     "expertise": [
-      ""
+      "Payment processing technology", 
+      "Anti-fraud",
+      "SEO",
+      "Web analytics",
+      "Technical analysis in general"
     ],
-    "spirit-animal": ""
-  },
-  {
-    "name": "Rachel Finnie",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "spirit-animal": ""
-  },
-  {
-    "name": "Iain Frame",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "spirit-animal": ""
+    "spirit-animal": "A cat. You can never have too many cats"
   },
   {
     "name": "James Hare",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
+    "photo-url": "/img/james-hare.jpg",
+    "job-description": "I’m the Lead Architect for Insurance at Tesco Bank, which basically means I get to talk to our guys in the business teams, and draw Sharpie pictures of applications that will do what they ask. I’m also one half of the team that looks after one of the graduate groups in Tesco Bank, so if there’s anything you want to know about our graduate programmes, let me know!",
     "bio": "",
     "expertise": [
-      ""
+      "Drawing",
+      "Getting people to build stuff, based on my drawings",
+      "Redrawing the bits I got wrong",
+      "Apologising to those same people, and buying them biscuits so they’ll work to my new drawing"
     ],
-    "spirit-animal": ""
-  },
-  {
-    "name": "Stefan Huth",
-    "photo-url": "/img/.jpg",
-    "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
-    "bio": "Been in the software development business for the passed 6-7 years working on a variety of different projects ranging from Voice Biometric Password Resets, Education Repositories to Android Development for the Bank. In my spare time I’m a Kung Fu practitioner/fanatic. ",
-    "expertise": [
-      "Front end and server side development",
-      "General Software Engineering Practices",
-      "Roundhouse Kicks & Tiger Strikes"
-    ],
-    "spirit-animal": "Flying Squirrel"
+    "spirit-animal": "the (revolver) Ocelot"
   },
   {
     "name": "Louis Jimbert",
@@ -146,53 +99,101 @@
     "spirit-animal": "Binturong"
   },
   {
-    "name": "Martin Kelly",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
+    "name": "Andrew Littlejohns",
+    "photo-url": "/img/andrew-littlejohns.jpg",
+    "job-description": "My current role is a mix of Community of Practice Lead for the Web Developers and ScrumMaster on the Site Improvements project (featuring a big chunk of Web Devleopers). I’ve been at Tesco Bank for over 4 years, joining Tesco Compare as a .Net Developer before moving into a team lead role.",
+    "bio": "Before joining Tesco Bank I worked at Scottish & Southern Energy where I once delivered a project on time using the Waterfall Project Methodology....true story, I have witnesses!",
     "expertise": [
-      ""
+      "A bit of front end development",
+      "Some Agile methodologies",
+      "C# (including a bit of BizTalk)",
+      "Herge’s Adventures of TinTin"
     ],
-    "spirit-animal": ""
+    "spirit-animal": "Koala"
   },
   {
-    "name": "Andrew Littlejohns",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
+    "name": "Stefan Huth",
+    "photo-url": "",
+    "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
+    "bio": "Been in the software development business for the passed 6-7 years working on a variety of different projects ranging from Voice Biometric Password Resets, Education Repositories to Android Development for the Bank. In my spare time I’m a Kung Fu practitioner/fanatic. ",
     "expertise": [
-      ""
+      "Front end and server side development",
+      "General Software Engineering Practices",
+      "Roundhouse Kicks & Tiger Strikes"
     ],
-    "spirit-animal": ""
+    "spirit-animal": "Flying Squirrel"
+  },
+  {
+    "name": "Cheryl Baxter",
+    "photo-url": "",
+    "job-description": "Change Analyst within General Insurance currently working on Small Change.",
+    "bio": "I have worked for Tesco Bank for just over 5 years starting in GI migration as a Team Manager. I live in Glasgow with my partner and guinea pig called Vader. My pet hate is the M8 and fence sitters other than that I would like to think I am fairly easy going!",
+    "expertise": [
+      "Management",
+      "Change",
+      "Operations"
+    ],
+    "spirit-animal": "A Red Panda probably just cause they look like they have fun",
   },
   {
     "name": "Stuart Parr",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
+    "photo-url": "",
+    "job-description": "I am a Web Developer for IT Digital. I’m currently working on the Site improvements project, a refresh of the Tesco bank Brochureware site.",
+    "bio": "I’ve been a Web Developer for five years, starting out working on a ecommerce sites and building HTML emails for a online retailer. Since then I’ve worked for smaller agencies doing Frontend, Design and CMS work.",
     "expertise": [
-      ""
+      "HTML/CSS and JavaScript (supposedly)",
+      "I’m a fairly handy bike mechanic as well"
     ],
-    "spirit-animal": ""
-  },
-  {
-    "name": "Jean Power",
-    "photo-url": "/img/.jpg",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      ""
-    ],
-    "spirit-animal": ""
+    "spirit-animal": "Seriously! I’ll take a Sloth if I have to."
   },
   {
     "name": "Victoria Reilly",
-    "photo-url": "/img/.jpg",
+    "photo-url": "",
     "job-description": "",
     "bio": "",
     "expertise": [
-      ""
+      "Coming soon..."
     ],
-    "spirit-animal": ""
+    "spirit-animal": "Coming soon..."
+  },
+  {
+    "name": "Samuel Bedford",
+    "photo-url": "",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      "Coming soon..."
+    ],
+    "spirit-animal": "Coming soon..."
+  },
+  {
+    "name": "Rachel Finnie",
+    "photo-url": "",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      "Coming soon..."
+    ],
+    "spirit-animal": "Coming soon..."
+  },
+  {
+    "name": "Iain Frame",
+    "photo-url": "",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      "Coming soon..."
+    ],
+    "spirit-animal": "Coming soon..."
+  },
+  {
+    "name": "Martin Kelly",
+    "photo-url": "",
+    "job-description": "",
+    "bio": "",
+    "expertise": [
+      "Coming soon..."
+    ],
+    "spirit-animal": "Coming soon..."
   }
 ]}

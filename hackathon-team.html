@@ -1,5 +1,48 @@
 ---
-layout: team
+layout: content
 title: Hackathon team
 ---
 
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<!-- row -->
+<div class="row">
+
+  {% for person in site.data.team.people %}
+
+    <!-- panel -->
+    <div class="col-md-4">
+      <div class="panel panel-default panel-team-bio">
+        
+        {% if person.photo-url != "" %}
+          <img src="{{ person.photo-url }}" alt="">
+        {% endif %}
+
+        <div class="panel-body">
+          <h3 class="media-heading">{{ person.name }}</h3>
+          <p><strong>Spirit Animal: {{ person.spirit-animal }}</strong></p>
+          <p>{{ person.job-description }}</p>
+          <p>{{ person.bio }}</p>
+          <h4>Expertise:</h4>
+          <ul>
+            {% for skill in person.expertise %}
+              <li>{{ skill }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </div>
+    </div>
+    <!-- /panel -->
+
+    {% if forloop.index == 3 or forloop.index == 6 or forloop.index == 9 or forloop.index == 12 or forloop.index == 15 or forloop.index == 18 or forloop.index == 21 or forloop.index == 24 or forloop.index == 27 or forloop.index == 30 %}
+      </div>
+      <div class="row">
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+<!-- /row -->
