@@ -123,6 +123,18 @@
     "spirit-animal": "Seriously! I’ll take a Sloth if I have to."
   },
   {
+    "name": "Sam Bedford",
+    "photo-url": "/img/sam-bedford.jpg",
+    "job-description": "I’m in the Head of IT for Voice & Data at Tesco Bank. I look after our Contact Centre technology and the Network our Bank operates over. I’m also one half of the team that looks after one of the graduate groups in Tesco Bank, so if there’s anything you want to know about our graduate programmes, let me know!",
+    "bio": "",
+    "expertise": [
+      "Contact Centre Technology",
+      "Being known as Ben",
+      "Driving Farm Machinery"
+    ],
+    "spirit-animal": "Wolverine (Which, according to Google, is the animal most suited to my characteristics, worryingly)"
+  },
+  {
     "name": "Stefan Huth",
     "photo-url": "",
     "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
@@ -145,16 +157,6 @@
       "Operations"
     ],
     "spirit-animal": "A Red Panda probably just cause they look like they have fun",
-  },
-  {
-    "name": "Samuel Bedford",
-    "photo-url": "",
-    "job-description": "",
-    "bio": "",
-    "expertise": [
-      "Coming soon..."
-    ],
-    "spirit-animal": "Coming soon..."
   },
   {
     "name": "Rachel Finnie",
