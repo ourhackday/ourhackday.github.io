@@ -123,6 +123,18 @@
     "spirit-animal": "Seriously! I’ll take a Sloth if I have to."
   },
   {
+    "name": "Cheryl Baxter",
+    "photo-url": "/img/cheryl-baxter.jpg",
+    "job-description": "Change Analyst within General Insurance currently working on Small Change.",
+    "bio": "I have worked for Tesco Bank for just over 5 years starting in GI migration as a Team Manager. I live in Glasgow with my partner and guinea pig called Vader. My pet hate is the M8 and fence sitters other than that I would like to think I am fairly easy going!",
+    "expertise": [
+      "Management",
+      "Change",
+      "Operations"
+    ],
+    "spirit-animal": "A Red Panda probably just cause they look like they have fun",
+  },
+  {
     "name": "Stefan Huth",
     "photo-url": "",
     "job-description": "Software Engineer primarily wrangling Java for server side development within the Digital IT dept. ",
@@ -133,18 +145,6 @@
       "Roundhouse Kicks & Tiger Strikes"
     ],
     "spirit-animal": "Flying Squirrel"
-  },
-  {
-    "name": "Cheryl Baxter",
-    "photo-url": "",
-    "job-description": "Change Analyst within General Insurance currently working on Small Change.",
-    "bio": "I have worked for Tesco Bank for just over 5 years starting in GI migration as a Team Manager. I live in Glasgow with my partner and guinea pig called Vader. My pet hate is the M8 and fence sitters other than that I would like to think I am fairly easy going!",
-    "expertise": [
-      "Management",
-      "Change",
-      "Operations"
-    ],
-    "spirit-animal": "A Red Panda probably just cause they look like they have fun",
   },
   {
     "name": "Samuel Bedford",
