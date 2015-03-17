@@ -161,12 +161,15 @@
   {
     "name": "Iain Frame",
     "photo-url": "/img/owl-450x450.jpg",
-    "job-description": "",
-    "bio": "",
+    "job-description": "iOS leader for Digital IT.",
+    "bio": "15 years commercial software development experience from large enterprise type systems down to low level embedded. Before that I serviced fighter jets in Her Majesty’s Royal Air Force. In my (very little) spare time I like bouncing down mountains on a mountain bike.",
     "expertise": [
-      "Coming soon..."
+      "Writing code",
+      "Breaking code",
+      "Fixing code",
+      "Falling off my bike"
     ],
-    "spirit-animal": "Coming soon..."
+    "spirit-animal": "Scrat (from Ice age)"
   },
   {
     "name": "Martin Kelly",
